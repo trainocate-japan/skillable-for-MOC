@@ -1,3 +1,4 @@
+# skillable-for-MOC
 # Skillable演習でよくあるトラブル
 ## マイクロソフト公式カリキュラムの場合
 - Entra IDの情報は、演習ガイドのまん中タブ[Resources]にある
