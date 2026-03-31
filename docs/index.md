@@ -1,3 +1,7 @@
+---
+title: Skillable (MOC)
+description: Skillable使用時の注意点(Microsoft公式カリキュラム)
+---
 # Skillable演習でよくあるトラブル
 ## マイクロソフト公式カリキュラムの場合
 - Entra IDの情報は、演習ガイドのまん中タブ[Resources]にある
