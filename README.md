@@ -1,2 +1,2 @@
 # skillable-for-MOC
-Skillable利用の注意点(マイクロソフト公式カリキュラム用)
+Skillable使用時の注意点(Microsoft公式カリキュラム)
