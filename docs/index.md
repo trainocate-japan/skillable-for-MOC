@@ -1,4 +1,4 @@
-# <span style="color: rgba(0, 0, 0, 0.0); font-size: small">skillable-for-MOC</span>
+# <span aria-hidden="true" style="opacity:0; position:absolute; left:-9999px;">skillable-for-MOC</span>
 # Skillable演習でよくあるトラブル
 ## マイクロソフト公式カリキュラムの場合
 - Entra IDの情報は、演習ガイドのまん中タブ[Resources]にある
